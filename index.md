@@ -1,3 +1,3 @@
 ---
-title: ** TEST PAGE **
+title: TEST PAGE
 ---
